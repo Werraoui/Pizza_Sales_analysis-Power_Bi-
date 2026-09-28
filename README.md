@@ -17,13 +17,13 @@ The goal is to turn ~48K order lines into clear answers to business questions:
 
 ### Page 1 — Overview (Home)
 
-![Pizza Sales Dashboard - Overview](Pizza Sales Images/dashboard-overview.png)
+![Pizza Sales Dashboard - Overview](Images/dashboard-overview.png)
 
 Shows the headline KPIs, the daily and monthly order trends, and the split of sales by category and size. *(The screenshot above has the size slicer set to "Large".)*
 
 ### Page 2 — Best / Worst Sellers
 
-![Pizza Sales Dashboard - Best and Worst Sellers](Pizza Sales Images/dashboard-best-worst.png)
+![Pizza Sales Dashboard - Best and Worst Sellers](Images/dashboard-best-worst.png)
 
 Ranks the top 5 and bottom 5 pizzas by revenue, total pizzas sold, and total orders.
 
